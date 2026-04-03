@@ -2,7 +2,7 @@ Summary:	Utility to unpack Firefox lz4json files
 Summary(pl.UTF-8):	Narzędzie do rozpakowywania plików lz4json z Firefoksa
 Name:		lz4json
 Version:	2
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Applications/File
 #Source0Download: https://github.com/andikleen/lz4json/releases
